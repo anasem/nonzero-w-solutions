@@ -1,0 +1,28 @@
+Metadata for file: nonzero_w_sim_results
+
+time                : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+ec_flux             : Flux density calculated using eddy covariance method [umol m-2 s-1]
+w_mean              : mean vertical wind velocity [m s-1]
+w_sigma             : standard deviation of vertical wind velocity [m s-1]
+L                   : Obukhov length [m]
+ustar               : friction velocity [m s-1]
+r_Tsw               : correlation coefficient between vertical wind velocity and sonic temperature.
+w_abs_mean          : mean of the absolute value of vertical wind velocity
+C_alpha             : transport asymmetry coefficient for CO2
+Ts_alpha            : transport asymmetry coefficient for sonic temperature
+W_alpha             : transport asymmetry coefficient for water vapor
+u_alpha             : transport asymmetry coefficient for wind velocity component u
+alpha_analytic      : analytical value of the transport asymmetry coefficient
+flux_error          : analytical error in the flux
+w_skewness          : skewness of vertical wind velocity component w
+C_skewness          : skewness of CO2 concentration
+zL                  : Monin-Obukhov stability parameter
+RNcov               : ratio of local covariance, time series is steady if less than 30% see (Foken, 2004), Eq. 9.4
+tea_flux_turnipseed : TEA flux calculated using the method of (Turnipseed, 2009)
+tea_flux_emad       : TEA flux calculated the method presented in the current papaer
+tea_flux_hicks      : TEA flux calculated using the concentration formula of (Hicks and Mcmillen, 1986)
+r_cw                : correlation coefficient between CO2 concentration and vertical wind velocity
+r_Ww                : correlation coefficient between water vapor concentration and vertical wind velocity
+r_uw                : correlation coefficient between wind velocity components, w and u
+flag                : flag to distinguish the time of the day and stationarity conditions
+rep                 : repetition
