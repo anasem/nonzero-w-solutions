@@ -1,7 +1,7 @@
 # Solution to the problem of non-vanishing $\bar{w}$ in TEA
 
 This repository contains data and scripts needed to reproduce the figures of
-Emad and Siebicke (2021)
+Emad and Siebicke (2023)
 
 
 **True eddy accumulation - Part 1: Solutions to the problem of non-vanishing mean vertical wind velocity**  
