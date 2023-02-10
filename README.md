@@ -5,8 +5,8 @@ Emad and Siebicke (2021)
 
 
 **True eddy accumulation - Part 1: Solutions to the problem of non-vanishing mean vertical wind velocity**  
- [![DOI:10.5194/amt-2021-319](https://img.shields.io/badge/doi-10.5194%2Famt--2021--319-blue)](https://doi.org/10.5194/amt-2021-319)
- 
+ [![DOI:10.5194/amt-16-29-2023](https://img.shields.io/badge/doi-10.5194%2Famt--16--29--2023-blue)](https://doi.org/10.5194/amt-16-29-2023)
+
  
 The publication version is archived on zenodo  
 [![DOI](https://zenodo.org/badge/532369737.svg)](https://zenodo.org/badge/latestdoi/532369737)
